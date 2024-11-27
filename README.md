@@ -6,6 +6,8 @@ The launcher fixes the problem with the game freezing on a blackscreen on startu
 
 IT IS VERY IMPORTANT YOU READ THE READ ME IN THE DOWNLOADED FILES FOR THIS TO WORK.
 
+go to releases and download the zip then extract it.
+
 simply put the D3D8.DLL and D3D8.INI and fellowship.dll and fellowship.ini and levellist.txt and FellowshipLauncher.exe from this fix into your game folder next to the game exe and your good to go, use FellowshipLauncher to launch and play the game instead of using Fellowship.exe, if you wish 
 you can make a shortcut of FellowshipLauncher.exe on your desktop. 
 
