@@ -33,7 +33,7 @@ brought to you by Fix Enhancers
 
 Team: 
 
-Chip, JokerAlex21, Blankname.
+Chip, JokerAlex21, (Blankname - fellowship.dll/ fellowship.ini (creator)).
 
 Testers: 
 
