@@ -25,7 +25,7 @@ or right click your fellowship folder where all the game files are and go to pro
 
 If you have any issues please go to discord for help 
 
-https://discord.gg/pZwkHrTF8X
+https://discord.gg/BTkGWCPX
 
 credit to Elisha Riedlinger for the base wrapper and 13 AG.
 
