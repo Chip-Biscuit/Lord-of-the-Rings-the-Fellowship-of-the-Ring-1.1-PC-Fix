@@ -1,4 +1,4 @@
-# Lord of the Rings - Fellowship - America - Version 1.1 Fix:
+# Lord of the Rings - Fellowship - Version 1.1 Fix:
 
 This is the Lord of the fellowship fix d3d8 wrapper.
 
