@@ -1,4 +1,4 @@
-# Lord of the Rings - Fellowship - Version 1.1 Fix:
+# Lord-of-the-Rings-the-Fellowship-of-the-Ring-1.1-PC-Fix:
 
 This is the Lord of the fellowship fix d3d8 wrapper.
 
