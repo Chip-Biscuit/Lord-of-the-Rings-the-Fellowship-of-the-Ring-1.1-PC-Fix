@@ -2,7 +2,7 @@
 
 This is the Lord of the fellowship fix d3d8 wrapper.
 
-The launcher fixes the problem with the game freezing on a blackscreen on startup.
+The patcher fixes the problem with the game freezing on a blackscreen on startup.
 
 IT IS VERY IMPORTANT YOU READ THE READ ME IN THE DOWNLOADED FILES FOR THIS TO WORK.
 
