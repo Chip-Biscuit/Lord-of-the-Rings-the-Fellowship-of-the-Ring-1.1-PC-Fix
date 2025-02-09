@@ -24,13 +24,21 @@ It is best to leave the option for FPSAnimations alone as this can easily break 
 
 # Cheats/Extras
 To use the cheats when in gameplay simply press the options listed below:
+
 F5 - fly -> Fly
+
 F6 - drop -> Drop
+
 F7 - tim -> Invincible
+
 F8 - tele -> Teleport
+
 F9 - mrclean -> MrClean
+
 F10 - heal -> Full Health
+
 F11 - bye -> Suicide
+
 F12 - invisowalls -> Show Invisible Statics
 
 On clicking New Game, you shall now have access right away to all the levels within the game. Simply select a level you wish to play or the first level in you wish to start from the beginning of the game like normal.
