@@ -3,7 +3,7 @@
 ![fellowship](https://github.com/user-attachments/assets/a286ba7b-caef-40bc-97a7-ddc9c3c03731)
 
 # Requirements before using fix
-Before using the fix for it to work properly you must have patched the game up to 1.1 release. **This fix WILL NOT WORK on a 1.0 version** of the game and 1.0 is not supported. If you have not updated your Fellowship of the Ring to 1.1 already then you can download the patch from here - https://www.gamepressure.com/download/the-lord-of-the-rings-the-fellowship-of-the-ring-v11-us-patch/z178b 
+Before using the fix for it to work properly you must have patched the game up to 1.1 release. **This fix WILL NOT WORK on a 1.0 version** of the game and 1.0 is not supported. If you have not updated your Fellowship of the Ring to 1.1 already then you can download the patch from here - https://community.pcgamingwiki.com/files/file/3361-the-lord-of-the-rings-the-fellowship-of-the-ring-v11-us-game-update/
 
 If you have trouble with updating your copy of Fellowship of the Ring to 1.1 with the patch, then join the **Discord** below for help regarding this issue.
 
