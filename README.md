@@ -9,6 +9,10 @@ If you have trouble with updating your copy of Fellowship of the Ring to 1.1 wit
 
 **IT IS VERY IMPORTANT YOU READ THE READ ME FILE IN THE DOWNLOADED FILES FOR THIS TO WORK PROPERLY!**
 
+# Resolution
+
+It is advised to only go as high as 2560 x 1440 resolution because this game engine on anything above that will have texture popping issues so for example at 4k (3840 x 2160) on the edges of the screen you will have texture popping but this is not present in 2560 x 1440 or under.
+
 # Instructions
 Go to release, download the zip file and extract it, then put the d3d8.dll, d3d8.ini, fellowship.dll, fellowship.ini, fellowship.rfl, levellist.txt and FellowshipPatcher.exe into your game folder next to the fellowship.exe file.
 
