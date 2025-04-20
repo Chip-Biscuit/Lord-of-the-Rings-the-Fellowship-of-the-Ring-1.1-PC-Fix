@@ -14,10 +14,8 @@ Go to release, download the zip file and extract it, then put the d3d8.dll, d3d8
 
 Before editing the settings in the ini files and starting up the game run FellowshipPatcher.exe once so that it can patch the game to fix the Black Screen issue on startup. Then you are good to go! You can edit the settings you wish to use in the d3d8.ini and fellowship.ini files.
 
-# Aspect Ratio
-You can choose the Aspect Ratio you wish to use in the d3d8.ini file from the setting fullscreenaspectratio. All aspect ratios that are supported in the fix are listed here, use the number next to the one you wish to use. This will unlock all the resolutions for that specific aspect ratio within the games graphics settings, where you can select the resolution you wish to use.
-
-This automatically calculates FOV in the game based on the aspect ratio that you chose in the d3d8.ini file.
+# FOV
+This fix automatically calculates FOV in the game based on the resolution that you chose in the game.
 
 # FPS
 Default for FPS is 60 which you can change in the fellowship.ini file. The game functions on higher fps without too many issues, however, uncapped is not advised.
