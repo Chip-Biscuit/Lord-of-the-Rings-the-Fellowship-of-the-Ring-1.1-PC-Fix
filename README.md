@@ -9,14 +9,14 @@ If you have trouble with updating your copy of Fellowship of the Ring to 1.1 wit
 
 **IT IS VERY IMPORTANT YOU READ THE READ ME FILE IN THE DOWNLOADED FILES FOR THIS TO WORK PROPERLY!**
 
+# Instructions
+Go to release, download the latest release zip file and extract it, then put the d3d8.dll, d3d8.ini, fellowship.dll, fellowship.ini, fellowship.rfl, levellist.txt and FellowshipPatcher.exe into your game folder next to the fellowship.exe file.
+
+Before editing the settings in the ini files and starting up the game run FellowshipPatcher.exe once so that it can patch the game to fix the Black Screen issue on startup. Then you are good to go! You can edit the settings you wish to use in the d3d8.ini and fellowship.ini files.
+
 # Resolution
 
 It is advised to only go as high as 2560 x 1440 resolution because this game engine on anything above that will have texture popping issues so for example at 4k (3840 x 2160) on the edges of the screen you will have texture popping but this is not present in 2560 x 1440 or under.
-
-# Instructions
-Go to release, download the zip file and extract it, then put the d3d8.dll, d3d8.ini, fellowship.dll, fellowship.ini, fellowship.rfl, levellist.txt and FellowshipPatcher.exe into your game folder next to the fellowship.exe file.
-
-Before editing the settings in the ini files and starting up the game run FellowshipPatcher.exe once so that it can patch the game to fix the Black Screen issue on startup. Then you are good to go! You can edit the settings you wish to use in the d3d8.ini and fellowship.ini files.
 
 # FOV
 This fix automatically calculates FOV in the game based on the resolution that you chose in the game.
