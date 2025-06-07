@@ -110,3 +110,7 @@ https://fixenhancers.wixsite.com/fix-enhancers
 Team:
 
 Chip, JokerAlex21 and (Blankname - fellowship.dll/fellowship.ini (creator)).
+
+Testers:
+
+Osen33, LovelyClaire
