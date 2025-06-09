@@ -40,6 +40,9 @@ then you can enjoy the game with full controller support :) enjoy! the layout is
 - sneak---------------------------------------------right bumper-----------------------------------------------SHIFT
 - pause--------------------------------------------------start---------------------------------------------------ESCAPE
 
+![fellowshipcontroller](https://github.com/user-attachments/assets/fa8e0f87-c18e-4041-9b52-9e5a1476dad8)
+
+
 # Resolution
 
 It is advised to only go as high as 2560 x 1440 resolution because this game engine on anything above that will have texture popping issues so for example at 4k (3840 x 2160) on the edges of the screen you will have texture popping but this is not present in 2560 x 1440 or under.
