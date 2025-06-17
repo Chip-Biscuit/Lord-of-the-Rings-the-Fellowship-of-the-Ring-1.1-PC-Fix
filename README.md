@@ -40,7 +40,8 @@ then you can enjoy the game with full controller support :) enjoy! the layout is
 - sneak---------------------------------------------right bumper-----------------------------------------------SHIFT
 - pause--------------------------------------------------start---------------------------------------------------ESCAPE
 
-![fellowshipcontroller](https://github.com/user-attachments/assets/fa8e0f87-c18e-4041-9b52-9e5a1476dad8)
+
+![Lord_of_the_Rings_the_Fellowship_of_the_Ring_Xbox_Controller_Layout](https://github.com/user-attachments/assets/133c3bc4-66cd-4626-9538-0710e6d31d13)
 
 
 # Resolution
