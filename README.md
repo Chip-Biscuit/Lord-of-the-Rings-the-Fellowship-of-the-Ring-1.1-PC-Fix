@@ -27,18 +27,8 @@ ControllerSupport = 1
 then you will be able to use an xbox controller In the game, if you don't have a xbox controller you can spoof it with the software DS4 windows or you can add the game to steam as a non steam game and make sure steam uses xinput 
 then you can enjoy the game with full controller support :) enjoy! the layout is as shown below:
 
-- ACTION-------------------------------------NEW CONTROLLER INPUT----------------------ORIGINAL KEYBOARD/MOUSE KEYS
-- move forward,left,back,right------------------------left stick------------------------------------------------W,A,S,D
-- Turn camera around is------------------------------right stick----------------------------------MOUSE UP,DOWN,LEFT,RIGHT
-- jump----------------------------------------------------A-----------------------------------------------------SPACE
-- normal attack-------------------------------------------X------------------------------------------------------LMB
-- throw or range attack----------------------------------B------------------------------------------------------RMB
-- interact-------------------------------------------------Y--------------------------------------------------------E
-- block-----------------------------------------------left bumper----------------------------------------RIGHT CONTROLL
-- first person----------------------------------------left trigger---------------------------------------------------F
-- inventory------------------------------------------right trigger--------------------------------------------------I
-- sneak---------------------------------------------right bumper-----------------------------------------------SHIFT
-- pause--------------------------------------------------start---------------------------------------------------ESCAPE
+
+<img width="757" alt="Lord_of_the_Rings_the_Fellowship_of_the_Ring_Controls_Table" src="https://github.com/user-attachments/assets/7e4eb2b1-8eb2-4b47-b027-e3baa3939585" />
 
 
 ![Lord_of_the_Rings_the_Fellowship_of_the_Ring_Xbox_Controller_Layout](https://github.com/user-attachments/assets/133c3bc4-66cd-4626-9538-0710e6d31d13)
@@ -67,12 +57,12 @@ If you would like to be able to change the level list names to the correct names
 •    Anduin 1
 
 Inside of the LevelList.txt file edit the levels above lines to the following and save it:
-Levels/Weathertop/Weathertop Mtn/Weathertop.lvl
-Levels/Weathertop/Weathertop Mtn/Night Weathertop.lvl
-Levels/Weathertop/Troll Shaws/Trollshaws.lvl
-Levels/Rivendell/House of Elrond/Rivendell.lvl
-Levels/Lothlorien/IGC_Forest/Lothlorien.lvl
-Levels/River Anduin/Anduin 1/Amon Hen.lvl
+- Levels/Weathertop/Weathertop Mtn/Weathertop.lvl
+- Levels/Weathertop/Weathertop Mtn/Night Weathertop.lvl
+- Levels/Weathertop/Troll Shaws/Trollshaws.lvl
+- Levels/Rivendell/House of Elrond/Rivendell.lvl
+- Levels/Lothlorien/IGC_Forest/Lothlorien.lvl
+- Levels/River Anduin/Anduin 1/Amon Hen.lvl
 
 Then you will need to go to where Fellowship is installed, Levels and then inside of each of the levels listed above’s folders find and edit the .lvl file to the name of the level. For example, IGC_Forest.lvl you would edit to Lothlorien.lvl. Once you do this for each of the levels above when you go in game you should now see the names have been updated in the menu level list.
 
