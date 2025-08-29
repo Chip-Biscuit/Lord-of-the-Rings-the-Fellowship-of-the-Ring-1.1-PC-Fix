@@ -107,14 +107,14 @@ brought to you by Fix Enhancers
 
 https://fixenhancers.wixsite.com/fix-enhancers
 
-Team:
+Team fix enhancers:
 
 # Chip
 - founder
 - lead reverse engineer
 - lead programmer
   
-<img width="500" height="500" alt="001" src="https://github.com/user-attachments/assets/59e8fcb0-f3bd-4d8c-bd6b-79d03d5f49f0" />
+<img width="250" height="250" alt="my logoo" src="https://github.com/user-attachments/assets/e344a9a1-3e69-4f57-b215-96478c9be6a0" />
 
 
 # JokerAlex21 
@@ -123,6 +123,7 @@ Team:
 - lead tester 
 
 <img width="250" height="250" alt="YouTube_Logo" src="https://github.com/user-attachments/assets/5c7204ca-4bca-4673-8117-965732e7ee6d" />
+
 
 (Blankname - fellowship.dll/fellowship.ini (creator)).
 
