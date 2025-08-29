@@ -11,7 +11,13 @@ If you have trouble with updating your copy of Fellowship of the Ring to 1.1 wit
 
 # Official video guide
 
-https://m.youtube.com/watch?v=PTlvVNK5E_s
+Watch the official fix guide video here on how to install the game and use the fix
+
+<a href="https://m.youtube.com/watch?v=PTlvVNK5E_s">
+  <img src="https://github.com/user-attachments/assets/2c6850d2-2c37-4b6b-8a7a-a823fdcdfe8b" alt="fellowship" width="480" height="360">
+</a><br>
+
+###### <i>Click the image above to watch the video</i>
 
 # Instructions
 Go to release, download the latest release zip file and extract it, then put the d3d8.dll, d3d8.ini, fellowship.dll, fellowship.ini, fellowship.rfl, levellist.txt and FellowshipPatcher.exe into your game folder next to the fellowship.exe file.
