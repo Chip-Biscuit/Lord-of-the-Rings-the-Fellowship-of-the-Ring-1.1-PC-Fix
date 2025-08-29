@@ -107,7 +107,7 @@ brought to you by Fix Enhancers
 
 https://fixenhancers.wixsite.com/fix-enhancers
 
-Team fix enhancers:
+# Team fix enhancers:
 
 # Chip
 - founder
@@ -128,6 +128,6 @@ Team fix enhancers:
 # Blankname 
 - fellowship.dll/fellowship.ini (creator)).
 
-Testers:
+# Testers:
 
 Osen33, LovelyClaire
