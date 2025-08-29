@@ -114,7 +114,7 @@ Team fix enhancers:
 - lead reverse engineer
 - lead programmer
   
-<img width="500" height="500" alt="001" src="https://github.com/user-attachments/assets/799d8f60-1a0f-47c0-8205-994c7693db11" />
+<img width="250" height="500" alt="001" src="https://github.com/user-attachments/assets/799d8f60-1a0f-47c0-8205-994c7693db11" />
 
 
 # JokerAlex21 
