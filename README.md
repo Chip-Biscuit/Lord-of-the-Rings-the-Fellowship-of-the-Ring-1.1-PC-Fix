@@ -109,7 +109,19 @@ https://fixenhancers.wixsite.com/fix-enhancers
 
 Team:
 
-Chip, JokerAlex21 and (Blankname - fellowship.dll/fellowship.ini (creator)).
+# Chip
+- founder
+- lead reverse engineer
+- lead programmer 
+
+
+# JokerAlex21 
+- founder
+- lead admin
+- lead tester 
+- content craator
+
+(Blankname - fellowship.dll/fellowship.ini (creator)).
 
 Testers:
 
