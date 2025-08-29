@@ -119,7 +119,7 @@ Team:
 - founder
 - lead admin
 - lead tester 
-- content craator
+
 
 (Blankname - fellowship.dll/fellowship.ini (creator)).
 
