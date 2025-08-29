@@ -112,7 +112,9 @@ Team:
 # Chip
 - founder
 - lead reverse engineer
-- lead programmer 
+- lead programmer
+  
+<img width="500" height="500" alt="001" src="https://github.com/user-attachments/assets/59e8fcb0-f3bd-4d8c-bd6b-79d03d5f49f0" />
 
 
 # JokerAlex21 
