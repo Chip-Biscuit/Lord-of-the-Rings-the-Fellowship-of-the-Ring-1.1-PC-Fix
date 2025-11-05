@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # Lord of the Rings the Fellowship of the Ring 1.1 PC Fix
 
 ![fellowship](https://github.com/user-attachments/assets/a286ba7b-caef-40bc-97a7-ddc9c3c03731)
